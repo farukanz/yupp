@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tentang Saya</title>
+</head>
+<body>
+    <h1>Tentang Saya</h1>
+    <p>Saya sedang belajar GitHub dan web development.</p>
+    <a href="index.html">Kembali ke Home</a>
+</body>
+</html>
